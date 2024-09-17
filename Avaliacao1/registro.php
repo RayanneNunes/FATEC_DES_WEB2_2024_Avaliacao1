@@ -13,7 +13,7 @@
     </style>
 
     <title>registro</title>
-  </head>
+</head>
 <body>
     
 </body>
@@ -59,4 +59,3 @@
 
 </div>
 
-</form>
