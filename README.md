@@ -28,9 +28,3 @@ O sistema ainda permite que usuários não cadastrados verifiquem todas as solic
 - file_get_contents: Para transformar os dados do arquivo texto em uma pagina php
 - HTML e Bootstrap: Para estruturar as páginas
 
-
-
-
-
-
-Um sistema de login/logout em PHP, que permite o acesso 
